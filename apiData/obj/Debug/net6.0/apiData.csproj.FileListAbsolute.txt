@@ -1,0 +1,12 @@
+C:\Users\labf\source\repos\api\apiData\bin\Debug\net6.0\apiData.deps.json
+C:\Users\labf\source\repos\api\apiData\bin\Debug\net6.0\apiData.dll
+C:\Users\labf\source\repos\api\apiData\bin\Debug\net6.0\apiData.pdb
+C:\Users\labf\source\repos\api\apiData\obj\Debug\net6.0\apiData.csproj.AssemblyReference.cache
+C:\Users\labf\source\repos\api\apiData\obj\Debug\net6.0\apiData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\labf\source\repos\api\apiData\obj\Debug\net6.0\apiData.AssemblyInfoInputs.cache
+C:\Users\labf\source\repos\api\apiData\obj\Debug\net6.0\apiData.AssemblyInfo.cs
+C:\Users\labf\source\repos\api\apiData\obj\Debug\net6.0\apiData.csproj.CoreCompileInputs.cache
+C:\Users\labf\source\repos\api\apiData\obj\Debug\net6.0\apiData.dll
+C:\Users\labf\source\repos\api\apiData\obj\Debug\net6.0\refint\apiData.dll
+C:\Users\labf\source\repos\api\apiData\obj\Debug\net6.0\apiData.pdb
+C:\Users\labf\source\repos\api\apiData\obj\Debug\net6.0\ref\apiData.dll
